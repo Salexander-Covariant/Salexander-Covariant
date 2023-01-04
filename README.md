@@ -4,6 +4,6 @@
 * 🌎 Nework engineer
 * ⛈ Weather enthusiast ([_personal weather site_](
 https://www.stewalexander.com/weather.html))
-* 🎹 Piano Player
-* 🇵🇭 Married to a Filipina
+* 🎹 Piano Player ([_personal youtube channel_](https://www.youtube.com/@Piano-Stew))
+* *🇵🇭 Married to a Filipina
 
