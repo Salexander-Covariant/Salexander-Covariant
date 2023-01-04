@@ -1,6 +1,5 @@
 # About Me:
 * 🔗 Personal Website: [StewAlexander.com](https://StewAlexander.com)
-* 🔗 [Bio Link](Stewalexander.com/bio)
 * 🌎 Nework engineer
 * ⛈ Weather enthusiast ([_personal weather site_](
 https://www.stewalexander.com/weather.html))
